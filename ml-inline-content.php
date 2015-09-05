@@ -9,6 +9,9 @@
  * Author URI: http://mlteal.com
  * Text Domain: ml_ic
  *
+ * GitHub Plugin URI: https://github.com/mlteal/ml-inline-content
+ * GitHub Branch: master
+ *
  */
 /*
 This program is free software; you can redistribute it and/or modify
